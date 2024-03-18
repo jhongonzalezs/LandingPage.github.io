@@ -1,5 +1,6 @@
-<h1 align="center">Presentado Gonzalez Sanchez Jhon, Alvarez Toro Jose, Alarcon Mozo Juan</h1>
-<h3 align="center">El trabajo consistió en desarrollar una Landing Page utilizando únicamente HTML y CSS, sin la utilización de frameworks o librerías de diseño como Bootstrap o Tailwind. El sitio debía ser responsive, adaptándose a diferentes resoluciones de pantalla. Se debían incluir las siguientes secciones:</h3>
+<h1 align="center">Presentado:</h1>
+<h3>Gonzalez Sanchez Jhon, Alvarez Toro Jose, Alarcon Mozo Juan</h3>
+<h6 align="center">El trabajo consistió en desarrollar una Landing Page utilizando únicamente HTML y CSS, sin la utilización de frameworks o librerías de diseño como Bootstrap o Tailwind. El sitio debía ser responsive, adaptándose a diferentes resoluciones de pantalla. Se debían incluir las siguientes secciones:</h6>
 
 - 1. **Navbar: Conformado por un navbar y un logo.**
 
