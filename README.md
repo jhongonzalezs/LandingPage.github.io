@@ -1,2 +1,22 @@
-# WebI
-Trabajo presentado por: Gonzalez Sanchez Jhon, Alvarez Toro Jose, Alarcon Mozo Juan
+<h1 align="center">Presentado Gonzalez Sanchez Jhon, Alvarez Toro Jose, Alarcon Mozo Juan</h1>
+<h3 align="center">El trabajo consistió en desarrollar una Landing Page utilizando únicamente HTML y CSS, sin la utilización de frameworks o librerías de diseño como Bootstrap o Tailwind. El sitio debía ser responsive, adaptándose a diferentes resoluciones de pantalla. Se debían incluir las siguientes secciones:</h3>
+
+- 1. **Navbar: Conformado por un navbar y un logo.**
+
+- 4. **Branding Section: Presentaba una imagen y textos.**
+
+- 2. **Hero Section: Contenía textos, un botón e imagen.**
+
+- 3. **Companies Section: Mostraba texto e imágenes tipo logo.**
+
+- 5. **Custom Section: Incluía una imagen y dos textos.**
+
+- 6. **Contact Section: Contenía una imagen, un botón y dos textos.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
